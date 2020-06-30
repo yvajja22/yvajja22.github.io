@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : #"Dream Big..✌️" # site tagline that appears below site title in masthead
 name                     : "Yatin Vajja"
 description              : "Student at Flower Mound Highschool"
-url                      : "https://prudhvi0001.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://yvajja22.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/jump.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -97,10 +97,10 @@ author:
   avatar           : "/assets/images/abstract.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I enjoy **Breaking Down** Data."
   location         : "Flower Mound, TX"
-  email            : v.prudhvi0001@gmail.com
-  github           : "Prudhvi0001"
+  email            : yvajja.2004@gmail.com
+  github           : "yvajja22"
   linkedin         : "prudhvi-vajja-22079610b"
-  facebook         : "prudhvivajja"
+  instagram         : "yatinvajja"
   kaggle           : "PrudhviVajja"
 
 
