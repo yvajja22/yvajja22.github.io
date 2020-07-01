@@ -131,7 +131,7 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/yatin-vajja-b8250a1b0/"
     - label: "Instagram"
-      icon: "fab fa-fw fa-facebook-square"
+      icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/yatinvajja/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
