@@ -6,7 +6,7 @@ function checkBirthday() {
   // 👇 CHANGE THIS TO THE REAL BIRTHDAY
   const correctDay = "15";
   const correctMonth = "8";
-  const correctYear = "2002";
+  const correctYear = "2004";
 
   if (day === correctDay && month === correctMonth && year === correctYear) {
     window.location.href = "valentine.html";
