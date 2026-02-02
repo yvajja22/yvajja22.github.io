@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  font-family: "Comic Sans MS", system-ui;
+  text-align: center;
+}
+
+/* LOGIN PAGE */
+.login-page {
+  background: #0f172a;
+  color: white;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.login-box input {
+  padding: 10px;
+  margin: 5px;
+  width: 120px;
+}
+
+.login-box button {
+  padding: 10px 20px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+#error {
+  color: red;
+  margin-top: 10px;
+}
+
+/* VALENTINE PAGE */
+.valentine-page {
+  background: pink;
+  background-image: radial-gradient(#ffb6c1 1px, transparent 1px);
+  background-size: 20px 20px;
+  height: 100vh;
+  padding-top: 40px;
+}
+
+.bear {
+  width: 150px;
+}
+
+.buttons {
+  margin-top: 20px;
+}
+
+button.yes {
+  background: #22c55e;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+}
+
+button.no {
+  background: #ef4444;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+}
