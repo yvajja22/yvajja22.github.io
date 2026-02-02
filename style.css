@@ -1,67 +1,49 @@
-body {
-  margin: 0;
-  font-family: "Comic Sans MS", system-ui;
-  text-align: center;
-}
-
-/* LOGIN PAGE */
-.login-page {
-  background: #0f172a;
+body.dark {
+  background: #0b132b;
   color: white;
-  height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+  text-align: center;
+  font-family: sans-serif;
+  padding-top: 100px;
 }
 
-.login-box input {
+body.pink {
+  background: #ffd6e8;
+  text-align: center;
+  font-family: sans-serif;
+  padding-top: 100px;
+}
+
+.inputs input {
+  width: 80px;
   padding: 10px;
   margin: 5px;
-  width: 120px;
+  font-size: 16px;
 }
 
-.login-box button {
-  padding: 10px 20px;
-  margin-top: 10px;
+button {
+  padding: 12px 25px;
+  font-size: 18px;
+  border: none;
+  border-radius: 10px;
   cursor: pointer;
+}
+
+.buttons {
+  margin-top: 40px;
 }
 
 #error {
   color: red;
-  margin-top: 10px;
-}
-
-/* VALENTINE PAGE */
-.valentine-page {
-  background: pink;
-  background-image: radial-gradient(#ffb6c1 1px, transparent 1px);
-  background-size: 20px 20px;
-  height: 100vh;
-  padding-top: 40px;
-}
-
-.bear {
-  width: 150px;
-}
-
-.buttons {
   margin-top: 20px;
 }
 
-button.yes {
-  background: #22c55e;
+#yesBtn {
+  background: #4CAF50;
   color: white;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 10px;
-  font-size: 16px;
+  margin-right: 20px;
 }
 
-button.no {
-  background: #ef4444;
+#noBtn {
+  background: #f44336;
   color: white;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 10px;
-  font-size: 16px;
 }

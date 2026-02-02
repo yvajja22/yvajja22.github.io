@@ -3,15 +3,9 @@ function checkBirthday() {
   const month = document.getElementById("month").value;
   const year = document.getElementById("year").value;
 
-  // 👇 CHANGE THIS TO THE REAL BIRTHDAY
-  const correctDay = "15";
-  const correctMonth = "8";
-  const correctYear = "2004";
-
-  if (day === correctDay && month === correctMonth && year === correctYear) {
-    window.location.href = "valentine.html";
+  if (day == 15 && month == 8 && year == 2004) {
+    window.location.href = "gf.html";
   } else {
-    document.getElementById("error").innerText =
-      "Wrong 😤 Try again.";
+    document.getElementById("error").innerText = "Wrong 😤 Try again.";
   }
 }

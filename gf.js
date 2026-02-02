@@ -1,14 +1,24 @@
 const noBtn = document.getElementById("noBtn");
+const yesBtn = document.getElementById("yesBtn");
 
-noBtn.addEventListener("mouseover", () => {
-  const x = Math.random() * (window.innerWidth - 100);
-  const y = Math.random() * (window.innerHeight - 100);
-  noBtn.style.position = "absolute";
-  noBtn.style.left = x + "px";
-  noBtn.style.top = y + "px";
+// YES → happy ending
+yesBtn.addEventListener("click", () => {
+  window.location.href = "yes.html";
 });
 
-function yesClicked() {
-  document.getElementById("response").innerText =
-    "YAYYY 💖 I knew you'd say yes 😌";
+// NO → runs away on hover
+noBtn.addEventListener("mouseover", moveNoButton);
+
+// If somehow clicked → black void
+noBtn.addEventListener("click", () => {
+  window.location.href = "no.html";
+});
+
+function moveNoButton() {
+  const x = Math.random() * (window.innerWidth - 150);
+  const y = Math.random() * (window.innerHeight - 150);
+
+  noBtn.style.position = "absolute";
+  noBtn.style.left = `${x}px`;
+  noBtn.style.top = `${y}px`;
 }
