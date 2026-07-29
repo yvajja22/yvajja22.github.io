@@ -1,0 +1,103 @@
+%PDF-1.4
+1 0 obj<< /Type /Catalog /Pages 2 0 R >>endobj
+2 0 obj<< /Type /Pages /Kids [3 0 R] /Count 1 >>endobj
+3 0 obj<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>endobj
+4 0 obj<< /Length 2192 >>stream
+BT
+/F1 18 Tf
+50 750 Td
+(Yatin Vajja) Tj
+0 -24 Td
+/F1 12 Tf
+(Software Engineer) Tj
+0 -20 Td
+(yatinsvajja@gmail.com  |  github.com/yvajja22  |  linkedin.com/in/yatin-vajja) Tj
+0 -36 Td
+/F1 14 Tf
+(SUMMARY) Tj
+0 -18 Td
+/F1 10 Tf
+(Computer Science graduate and incoming Software Engineer at Fidelity Investments) Tj
+0 -14 Td
+(with experience building scalable full-stack applications, cloud solutions,) Tj
+0 -14 Td
+(and data-driven systems. CS at UT Dallas, Minor in Finance.) Tj
+0 -28 Td
+/F1 14 Tf
+(EXPERIENCE) Tj
+0 -18 Td
+/F1 11 Tf
+(Fidelity Investments - Incoming Software Engineer, LEAP Program) Tj
+0 -14 Td
+/F1 10 Tf
+(August 2026 - Present) Tj
+0 -14 Td
+(Incoming full-time Software Engineer in an enterprise-scale Agile environment.) Tj
+0 -20 Td
+/F1 11 Tf
+(Vizient - Software Engineer Intern | Irving, TX | June 2025 - August 2025) Tj
+0 -14 Td
+/F1 10 Tf
+(- Angular and C#/.NET features for Healthcare Performance Executive Dashboard) Tj
+0 -14 Td
+(- Adopted by 1,000+ healthcare leaders; improved performance by 30%) Tj
+0 -14 Td
+(- Azure Databricks ETL; Azure DevOps and Pulumi automation) Tj
+0 -20 Td
+/F1 11 Tf
+(Epics UT Design - Software Engineer | Dallas, TX | Jan 2024 - May 2024) Tj
+0 -14 Td
+/F1 10 Tf
+(- Team formation algorithms for 5,400+ students; React/Next.js/TypeScript/SQLite) Tj
+0 -14 Td
+(- Prisma ORM; 2x database performance via schema optimization) Tj
+0 -20 Td
+/F1 11 Tf
+(UT Dallas ITS - IT Support Engineer | Dallas, TX | Mar 2023 - Oct 2024) Tj
+0 -14 Td
+/F1 10 Tf
+(- Supported 10,000+ users; Azure, Splunk, Microsoft 365, authentication) Tj
+0 -28 Td
+/F1 14 Tf
+(PROJECTS) Tj
+0 -18 Td
+/F1 11 Tf
+(CS Degree Planner - Python, React, MongoDB, APIs) Tj
+0 -14 Td
+/F1 10 Tf
+(- 30% faster planning; 1,000+ concurrent users; 99.9% uptime) Tj
+0 -28 Td
+/F1 14 Tf
+(EDUCATION) Tj
+0 -18 Td
+/F1 11 Tf
+(The University of Texas at Dallas - B.S. Computer Science, Minor in Finance) Tj
+0 -14 Td
+/F1 10 Tf
+(May 2026) Tj
+0 -28 Td
+/F1 14 Tf
+(SKILLS) Tj
+0 -18 Td
+/F1 10 Tf
+(Java, C++, C#, Python, TypeScript, JavaScript, SQL) Tj
+0 -14 Td
+(React.js, Angular, Next.js | .NET, REST APIs, Prisma, Database Design) Tj
+0 -14 Td
+(Azure, Azure DevOps, Databricks, Docker, Kubernetes, Pulumi, Splunk) Tj
+ET
+endstream
+endobj
+5 0 obj<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000056 00000 n 
+0000000111 00000 n 
+0000000235 00000 n 
+0000002476 00000 n 
+trailer<< /Size 6 /Root 1 0 R >>
+startxref
+2544
+%%EOF
